@@ -1,12 +1,26 @@
-### 我是你们的狗子哥！👋
+## 我是你们的"狗子哥"！👋 Im your Brother dog!👋
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=qw225967)
+
+***<p align="right">"这里有一些不成器的状态展示"</p>***
+***<p align="right">"unfollowed homepage"</p>***
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=qw225967&show_icons=true&theme=flag-india" />
+</p>
+
+****
+
+***如果想了解我更多，请关注我的CSDN：https://blog.csdn.net/qw225967***  
+***If you want to know more about me, please follow my account on CSDN:https://blog.csdn.net/qw225967***
+<br />
+
+
 
 <a href="https://github.com/qw225967/loki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qw225967&repo=loki" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qw225967&repo=loki&theme=flag-india" />
 </a>
 <a href="https://github.com/qw225967/Mjolnir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qw225967&repo=Mjolnir" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qw225967&repo=Mjolnir&theme=flag-india" />
 </a>
 
 
