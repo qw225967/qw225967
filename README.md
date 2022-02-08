@@ -16,14 +16,6 @@
 
 
 
-<a href="https://github.com/qw225967/loki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qw225967&repo=loki&theme=flag-india" />
-</a>
-<a href="https://github.com/qw225967/Mjolnir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qw225967&repo=Mjolnir&theme=flag-india" />
-</a>
-
-
 
 <!--
 **qw225967/qw225967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
