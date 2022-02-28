@@ -2,7 +2,7 @@
 
 
 ***<p align="right">"这里有一些不成器的状态展示"</p>***
-***<p align="right">"unfollowed homepage"</p>***
+***<p align="right">"tiny homepage"</p>***
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=qw225967&show_icons=true&theme=flag-india" />
