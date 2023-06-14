@@ -1,7 +1,7 @@
-## 我是你们的"狗子哥"！👋 Im your Brother dog!👋
+## 我是你们的"狗子哥"！👋 Im Frankie!👋
 
 
-***<p align="right">"这里有一些不成器的状态展示"</p>***
+***<p align="right">"这里有一些小展示"</p>***
 ***<p align="right">"tiny homepage"</p>***
 
 <p align="right">
